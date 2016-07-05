@@ -1,4 +1,4 @@
-package com.example.administrator.ptrdemo;
+package com.example.administrator.ptrdemo.view;
 
 /**
  * 下拉刷新视图抽象接口

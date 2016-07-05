@@ -1,4 +1,4 @@
-package com.example.administrator.ptrdemo;
+package com.example.administrator.ptrdemo.view;
 
 /**
  * Created by Administrator on 2016/7/1 0001.

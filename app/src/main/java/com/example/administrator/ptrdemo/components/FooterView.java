@@ -1,4 +1,4 @@
-package com.example.administrator.ptrdemo;
+package com.example.administrator.ptrdemo.components;
 
 import android.content.Context;
 import android.util.AttributeSet;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import com.example.administrator.ptrdemo.R;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
